@@ -1,0 +1,6 @@
+@IKProject.Presentation_HostAddress = http://localhost:5277
+
+GET {{IKProject.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IKProject.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12a1c5656969a4977f2b4d4a5a5e72f5a560bd49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+705c4cd232a6719397ccdbaf21b0306028ab1aab")]
 [assembly: System.Reflection.AssemblyProductAttribute("IKProject.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IKProject.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\pc\\.nuget\\packages\\": {}
+    "/Users/ilknurkarsli/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\IKProject\\IKProject.Infrastructure\\IKProject.Infrastructure.csproj",
+      "projectUniqueName": "/Users/ilknurkarsli/Desktop/ikprojectdeneme/IKProject/IKProject.Infrastructure/IKProject.Infrastructure.csproj",
       "projectName": "IKProject.Infrastructure",
-      "projectPath": "C:\\Users\\pc\\source\\repos\\IKProject\\IKProject.Infrastructure\\IKProject.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\repos\\IKProject\\IKProject.Infrastructure\\obj\\",
+      "projectPath": "/Users/ilknurkarsli/Desktop/ikprojectdeneme/IKProject/IKProject.Infrastructure/IKProject.Infrastructure.csproj",
+      "packagesPath": "/Users/ilknurkarsli/.nuget/packages/",
+      "outputPath": "/Users/ilknurkarsli/Desktop/ikprojectdeneme/IKProject/IKProject.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/ilknurkarsli/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

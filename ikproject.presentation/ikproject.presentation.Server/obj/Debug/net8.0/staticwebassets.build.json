@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "jwLAz7fBpG7oKUXm0ydlketTAYWnCswAzm3H98eYZWM=",
+  "Source": "ikproject.presentation.Server",
+  "BasePath": "_content/ikproject.presentation.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\pc\\Desktop\\IKProject\\ikproject.presentation\\ikproject.presentation.client\\ikproject.presentation.client.esproj",
+      "Version": 2,
+      "Source": "ikproject.presentation.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

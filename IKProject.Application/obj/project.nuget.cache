@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Smyuknghvx+sXk0M6s6NWR5VfCmWpaksOBz/yMn2wZxBEkEqSSoo2TvqbTmhgmvdhepb72CEolYc386LxFx2XQ==",
+  "dgSpecHash": "9AED8Pwf2ZFllH/dM7zDrwEPsztfcobsbdQsf2tPJURLt1oDe4nwgawBOEn383TcCDDwbijjprSqJNL8Hdt7Cw==",
   "success": true,
-  "projectFilePath": "/Users/ilknurkarsli/Desktop/ikprojectdeneme/IKProject/IKProject.Application/IKProject.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\IKProject\\IKProject.Application\\IKProject.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

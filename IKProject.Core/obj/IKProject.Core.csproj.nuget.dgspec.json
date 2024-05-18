@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ilknurkarsli/Desktop/ikprojectdeneme/IKProject/IKProject.Core/IKProject.Core.csproj": {}
+    "C:\\Users\\pc\\Desktop\\IKProject\\IKProject.Core\\IKProject.Core.csproj": {}
   },
   "projects": {
-    "/Users/ilknurkarsli/Desktop/ikprojectdeneme/IKProject/IKProject.Core/IKProject.Core.csproj": {
+    "C:\\Users\\pc\\Desktop\\IKProject\\IKProject.Core\\IKProject.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ilknurkarsli/Desktop/ikprojectdeneme/IKProject/IKProject.Core/IKProject.Core.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\IKProject\\IKProject.Core\\IKProject.Core.csproj",
         "projectName": "IKProject.Core",
-        "projectPath": "/Users/ilknurkarsli/Desktop/ikprojectdeneme/IKProject/IKProject.Core/IKProject.Core.csproj",
-        "packagesPath": "/Users/ilknurkarsli/.nuget/packages/",
-        "outputPath": "/Users/ilknurkarsli/Desktop/ikprojectdeneme/IKProject/IKProject.Core/obj/",
+        "projectPath": "C:\\Users\\pc\\Desktop\\IKProject\\IKProject.Core\\IKProject.Core.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\IKProject\\IKProject.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ilknurkarsli/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

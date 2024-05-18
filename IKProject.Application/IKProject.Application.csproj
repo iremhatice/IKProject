@@ -7,10 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\" />
-    <Folder Include="IRepositories\" />
-    <Folder Include="Services\IServices\" />
-    <Folder Include="Utilities\IUnitOfWorks\" />
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IKProject.Core\IKProject.Core.csproj" />
   </ItemGroup>
 
 </Project>

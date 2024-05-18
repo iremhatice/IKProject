@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKProject.Core", "IKProject.Core\IKProject.Core.csproj", "{7AAB8F7D-E165-4002-AF66-770DA2D01A3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IKProject.Core", "IKProject.Core\IKProject.Core.csproj", "{7AAB8F7D-E165-4002-AF66-770DA2D01A3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKProject.Application", "IKProject.Application\IKProject.Application.csproj", "{6CC92BB8-57E8-4097-AE3D-FA4FAA302DF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IKProject.Application", "IKProject.Application\IKProject.Application.csproj", "{6CC92BB8-57E8-4097-AE3D-FA4FAA302DF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKProject.Infrastructure", "IKProject.Infrastructure\IKProject.Infrastructure.csproj", "{DB82CCDF-0CFD-43B4-8C00-A1BD2CA87655}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IKProject.Infrastructure", "IKProject.Infrastructure\IKProject.Infrastructure.csproj", "{DB82CCDF-0CFD-43B4-8C00-A1BD2CA87655}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKProject.Presentation", "IKProject.Presentation\IKProject.Presentation.csproj", "{15AAABC4-BA64-4EF2-B816-DA4ABED69712}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ikproject.presentation.Server", "ikproject.presentation\ikproject.presentation.Server\ikproject.presentation.Server.csproj", "{E7A55672-9D1C-460A-AC11-E974832D0990}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "ikproject.presentation.client", "ikproject.presentation\ikproject.presentation.client\ikproject.presentation.client.esproj", "{FF43AC03-5C03-4DA3-BEB1-3A43181459EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +31,16 @@ Global
 		{DB82CCDF-0CFD-43B4-8C00-A1BD2CA87655}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB82CCDF-0CFD-43B4-8C00-A1BD2CA87655}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB82CCDF-0CFD-43B4-8C00-A1BD2CA87655}.Release|Any CPU.Build.0 = Release|Any CPU
-		{15AAABC4-BA64-4EF2-B816-DA4ABED69712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{15AAABC4-BA64-4EF2-B816-DA4ABED69712}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{15AAABC4-BA64-4EF2-B816-DA4ABED69712}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{15AAABC4-BA64-4EF2-B816-DA4ABED69712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A55672-9D1C-460A-AC11-E974832D0990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A55672-9D1C-460A-AC11-E974832D0990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A55672-9D1C-460A-AC11-E974832D0990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A55672-9D1C-460A-AC11-E974832D0990}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF43AC03-5C03-4DA3-BEB1-3A43181459EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF43AC03-5C03-4DA3-BEB1-3A43181459EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF43AC03-5C03-4DA3-BEB1-3A43181459EB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FF43AC03-5C03-4DA3-BEB1-3A43181459EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF43AC03-5C03-4DA3-BEB1-3A43181459EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF43AC03-5C03-4DA3-BEB1-3A43181459EB}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

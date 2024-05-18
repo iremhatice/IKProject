@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\IKProject\IKProject.Application\bin\Debug\net8.0\IKProject.Application.deps.json
+C:\Users\pc\Desktop\IKProject\IKProject.Application\bin\Debug\net8.0\IKProject.Application.dll
+C:\Users\pc\Desktop\IKProject\IKProject.Application\bin\Debug\net8.0\IKProject.Application.pdb
+C:\Users\pc\Desktop\IKProject\IKProject.Application\bin\Debug\net8.0\IKProject.Core.dll
+C:\Users\pc\Desktop\IKProject\IKProject.Application\bin\Debug\net8.0\IKProject.Core.pdb
+C:\Users\pc\Desktop\IKProject\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\IKProject\IKProject.Application\obj\Debug\net8.0\IKProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\IKProject\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\IKProject\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfo.cs
+C:\Users\pc\Desktop\IKProject\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\IKProject\IKProject.Application\obj\Debug\net8.0\IKProject.Application.sourcelink.json
+C:\Users\pc\Desktop\IKProject\IKProject.Application\obj\Debug\net8.0\IKProjec.3F6E4207.Up2Date
+C:\Users\pc\Desktop\IKProject\IKProject.Application\obj\Debug\net8.0\IKProject.Application.dll
+C:\Users\pc\Desktop\IKProject\IKProject.Application\obj\Debug\net8.0\refint\IKProject.Application.dll
+C:\Users\pc\Desktop\IKProject\IKProject.Application\obj\Debug\net8.0\IKProject.Application.pdb
+C:\Users\pc\Desktop\IKProject\IKProject.Application\obj\Debug\net8.0\ref\IKProject.Application.dll

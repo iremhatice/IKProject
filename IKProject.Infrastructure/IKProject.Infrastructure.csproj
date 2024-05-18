@@ -8,9 +8,20 @@
 
   <ItemGroup>
     <Folder Include="Configurations\" />
-    <Folder Include="Contexts\" />
-    <Folder Include="Repositories\" />
-    <Folder Include="Utilities\UnitOfWorks\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IKProject.Application\IKProject.Application.csproj" />
   </ItemGroup>
 
 </Project>

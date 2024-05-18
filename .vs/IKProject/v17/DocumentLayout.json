@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\IKProject\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7AAB8F7D-E165-4002-AF66-770DA2D01A3C}|IKProject.Core\\IKProject.Core.csproj|c:\\users\\pc\\source\\repos\\ikproject\\ikproject.core\\domainmodels\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AAB8F7D-E165-4002-AF66-770DA2D01A3C}|IKProject.Core\\IKProject.Core.csproj|solutionrelative:ikproject.core\\domainmodels\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB82CCDF-0CFD-43B4-8C00-A1BD2CA87655}|IKProject.Infrastructure\\IKProject.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\ikproject\\ikproject.infrastructure\\ikproject.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DB82CCDF-0CFD-43B4-8C00-A1BD2CA87655}|IKProject.Infrastructure\\IKProject.Infrastructure.csproj|solutionrelative:ikproject.infrastructure\\ikproject.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\IKProject\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,34 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\IKProject\\IKProject.Core\\DomainModels\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "IKProject.Core\\DomainModels\\Models\\Person.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\IKProject\\IKProject.Core\\DomainModels\\Models\\Person.cs",
-              "RelativeToolTip": "IKProject.Core\\DomainModels\\Models\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T14:07:25.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IKProject.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\IKProject\\IKProject.Infrastructure\\IKProject.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "IKProject.Infrastructure\\IKProject.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\IKProject\\IKProject.Infrastructure\\IKProject.Infrastructure.csproj",
-              "RelativeToolTip": "IKProject.Infrastructure\\IKProject.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-17T14:04:28.148Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
